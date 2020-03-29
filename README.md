@@ -1,2 +1,2 @@
 # House-Prices-Prediction
-This is a demo of predicting house prices using neural network.
+This jupyter notebook shows a demo of predicting house prices using neural network.
